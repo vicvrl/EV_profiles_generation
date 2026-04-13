@@ -1,5 +1,5 @@
-# Electric Vehicles as Mobile Batteries
-This repository contains the code used to generate the synthetic electric vehicle (EV) mobility and charging dataset used in our study.
+# Electric Vehicles as Mobile Batteries: dataset generation
+This repository contains the code used to generate the synthetic electric vehicle (EV) mobility and charging dataset used in the study.
 Because no open vehicle-centric EV datasets capture complete trip sequences and charging behavior, profiles were generated using emobpy and driver-specific constraints at a 15-minute resolution.
 The repository focuses exclusively on reproducible dataset generation.
 
