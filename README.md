@@ -57,6 +57,5 @@ The dataset is publicly available on [Dataverse](https://doi.org/10.14428/DVN/6G
 
 If you use this repository, please cite:
 
-Van Rillaer, V., de Schietere de Lophem, M., Verhaeghe, H.
-*Electric Vehicles as Mobile Batteries: Automating Charge and Discharge Using Machine Learning Predictions* 
+> Van Rillaer, V., de Schietere de Lophem, M., Verhaeghe, H. *Electric Vehicles as Mobile Batteries: Automating Charge and Discharge Using Machine Learning Predictions* 
 
